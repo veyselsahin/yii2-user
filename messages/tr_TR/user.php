@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Message translations.
  *
@@ -18,31 +17,31 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Account details' => 'Hesap Detayları',
+    'Account details' => 'Hesap detayları',
     'Account details have been updated' => 'Hesap detayları güncellendi',
-    'Assignments' => 'Atamalar',
+    'Assignments' => 'Tanımlamalar',
     'Confirmation status' => 'Onay Durumu',
     'Create' => 'Oluştur',
     'Delete' => 'Sil',
-    'Don\'t have an account? Sign up!' => 'Hesabınız yok mu? Kayıt olun!',
-    'In order to finish your registration, we need you to enter your email address' => 'Kaydınızı tamamlayabilmemiz için eposta adresiniz girmeniz gerekmektedir.',
+    'Don\'t have an account? Sign up!' => 'Hesabın yok mu? Kayıt Ol!',
+    'In order to finish your registration, we need you to enter your email address' => 'Kayıt işlemini bitirmek için mail adresinizi girmeniz gerekmekte.',
     'New permission' => 'Yeni İzin',
-    'New role' => 'Yeni Rol',
+    'New role' => 'Yeni Kural',
     'New user' => 'Yeni Kullanıcı',
-    'Not blocked' => 'Bloklanmamış',
-    'Permissions' => 'İzinler',
-    'Profile details' => 'Profil Detayı',
+    'Not blocked' => 'Engellenmemiş',
+    'Permissions' => 'Yetkiler',
+    'Profile details' => 'Profil detayı',
     'Profile details have been updated' => 'Profil detayı güncellendi',
-    'Recovery message sent' => 'Kurtarma mesajı gönderildi',
-    'Registration IP' => 'Kayıt IP\'si',
-    'Roles' => 'Roller',
-    'Something went wrong' => 'Birşeyler ters gitti',
+    'Recovery message sent' => 'Kurtarma mesajı gonderildi',
+    'Registration IP' => 'Kayıt IP',
+    'Roles' => 'Kurallar',
+    'Something went wrong' => 'Birşeyler yanlış gitti',
     'Unconfirmed' => 'Doğrulanmamış',
     'Update' => 'Güncelle',
     'VKontakte' => 'VKontakte',
     'Yandex' => 'Yandex',
-    'You can assign multiple roles or permissions to user by using the form below' => 'Aşağıdaki formu kullanarak kullanıcıya izinler ve roller tanımlayabilirsiniz.',
-    'You can connect multiple accounts to be able to log in using them' => 'Bağlanmak için birden fazla hesap bağlayabilirsiniz.',
+    'You can assign multiple roles or permissions to user by using the form below' => 'Aşağıdaki formu kullanarak kullanıcılara birden fazla kural ve yetki atayabilirsiniz',
+    'You can connect multiple accounts to be able to log in using them' => 'Giriş yapmak için birden fazla hesap kullanabilirsiniz',
     'Account has successfully been connected' => '@@Hesap başarılı bir şekilde bağlandı.@@',
     'All user tokens have been deleted' => '@@Tüm kullanıcı jetonları başarıyla silindi@@',
     'Awesome! You have successfully confirmed your email address. You may sign in using your credentials now.' => '@@Mükemmel! Eposta adresinizi başarıyla doğruladınız. Artık giriş yapabilirsiniz.@@',
